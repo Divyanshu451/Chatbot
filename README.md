@@ -4,4 +4,5 @@ A chatbot is an artificial intelligence (AI) software that can simulate a conver
 There are two different tasks at the core of a chatbot:
 
 User request analysis
+
 Returning the response
