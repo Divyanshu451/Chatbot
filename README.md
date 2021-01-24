@@ -12,6 +12,9 @@ User request analysis- This is the first task that a chatbot performs. It analyz
 Returning the response-Once the user’s intent has been identified, the chatbot must provide the most appropriate response for the user’s request. The answer may be:
 
 a generic and predefined text;
+
 a text retrieved from a knowledge base that contains different answers;
+
 a contextualized piece of information based on data the user has provided;
+
 data stored in enterprise systems;
